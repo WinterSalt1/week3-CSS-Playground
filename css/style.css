@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Pixelify+Sans&display=swap');
+
+
+body{
+    background-color: rgb(210, 210, 165);
+}
+
+.heading{
+    text-align: center;
+}
+
+.playground-heading{
+    color: aqua;
+    font-family: 'Pixelify Sans', cursive;
+font-size: 5rem;
+}
+
+
+.main{
+
+    border: 2px solid grey; 
+    width: 55%;
+    margin: 0 auto;
+
+}
+
+.main div{
+   height: 200px;
+   width: 200px;
+   border: 1px solid black;
+   border-radius: 50%;
+   margin: 2rem auto;
+}
+
+#red{
+    border-color: red;
+}
+
+#green{
+    border-color: green;
+}
+
+#black{
+    border-color: black;
+}
+
+.footer{
+   color: brown;
+    font-family: 'Crimson Text', serif;
+    text-align: center;
+    font-size: 2rem;
+    
+}
